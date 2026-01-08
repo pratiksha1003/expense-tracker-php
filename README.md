@@ -15,9 +15,6 @@ A simple web-based application to track and manage daily expenses efficiently.
 - CSS3
 - JavaScript
 
-## 📸 Screenshots
-(Add screenshots here)
-
 ## 📌 Future Scope
 - Convert into a WordPress plugin
 - Add charts and monthly summaries
